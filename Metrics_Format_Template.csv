@@ -1,0 +1,12 @@
+Metric Category,Formula,Jan-23,Feb-23,Mar-23,Apr-23,May-23,Jun-23,Jul-23,Aug-23,Sep-23,Oct-23
+Risk Profile Distribution,Very High % = (Models Very High / Models Total) * 100,,,,,,,,,,
+,High % = (Models High / Models Total) * 100,,,,,,,,,,
+,Medium % = (Models Medium / Models Total) * 100,,,,,,,,,,
+,Low % = (Models Low / Models Total) * 100,,,,,,,,,,
+Changes in Risk Profile,Very High % = Current Month - Previous Month,,,,,,,,,,
+,High % = Current Month - Previous Month,,,,,,,,,,
+,Medium % = Current Month - Previous Month,,,,,,,,,,
+,Low % = Current Month - Previous Month,,,,,,,,,,
+Growth Rate of Active Models,Growth = ((Active(Current) - Active(Previous)) / Active(Previous)) * 100,,,,,,,,,,
+Retired Models Rate,(Retired Models / Total Models) * 100,,,,,,,,,,
+Inactive Models Rate,(Inactive Models / Total Models) * 100,,,,,,,,,,
